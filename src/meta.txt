@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name        colorize
+// @namespace   https://github.com/WhiteAbeLincoln/userscripts
+// @description Annotates css colors in the page text with their visual color
+// @match       *://*/*
+// @grant       none
+// @version     process.env.VERSION
+// @author      WhiteAbeLincoln
+// ==/UserScript==
